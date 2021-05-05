@@ -8,5 +8,3 @@ def sum(a,b,c):
     return sum
 x,y,z=[int(a) for a in input ("enter three number: ")]
 print(sum(x,y,z))
-
-n=int(input("enter three number: "))
